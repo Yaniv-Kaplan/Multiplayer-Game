@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Game.Plugins", "Multiplayer Game.Plugins.csproj", "{E9FDB8D2-9303-4CD0-14FF-1A5AD91B9093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Game", "Multiplayer Game.csproj", "{B0E6DA61-75BD-951B-8ACC-5636EEADC456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Game.Editor.Plugins", "Multiplayer Game.Editor.Plugins.csproj", "{FF577EEB-CCB8-9D8E-6E09-9A789C2E0C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FDB8D2-9303-4CD0-14FF-1A5AD91B9093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FDB8D2-9303-4CD0-14FF-1A5AD91B9093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FDB8D2-9303-4CD0-14FF-1A5AD91B9093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FDB8D2-9303-4CD0-14FF-1A5AD91B9093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E6DA61-75BD-951B-8ACC-5636EEADC456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E6DA61-75BD-951B-8ACC-5636EEADC456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E6DA61-75BD-951B-8ACC-5636EEADC456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E6DA61-75BD-951B-8ACC-5636EEADC456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF577EEB-CCB8-9D8E-6E09-9A789C2E0C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF577EEB-CCB8-9D8E-6E09-9A789C2E0C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF577EEB-CCB8-9D8E-6E09-9A789C2E0C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF577EEB-CCB8-9D8E-6E09-9A789C2E0C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
